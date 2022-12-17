@@ -27,4 +27,4 @@ export const ButtonContainer = styled.button`
             border-radius: 22px;
         }
     `}
-`
+`;

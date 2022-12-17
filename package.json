@@ -2,7 +2,6 @@
   "name": "cadastro-dio",
   "version": "0.0.1",
   "author": "maria eduarda silva",
-  "homepage": "https://github.com/Marimariaah/cadastro-dio#readme",
   "description": "Tela de cadastro da dio construido com React.",
   "main": "index.js",
   "license": "ISC",

@@ -9,7 +9,7 @@ export const Container = styled.main`
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-`
+`;
 
 export const Title = styled.h3`
     font-family: 'Open Sans';
@@ -19,7 +19,7 @@ export const Title = styled.h3`
     line-height: 25px;
     color: #FFFFFF;
     margin-bottom: 24px;
-`
+`;
 
 export const TitleHighlight = styled.h3`
     font-family: 'Open Sans';
@@ -29,13 +29,9 @@ export const TitleHighlight = styled.h3`
     line-height: 25px;
     color: #FFFFFF70;
     margin-bottom: 24px;
-
-`
+`;
 
 export const Column = styled.div`
     flex:${({flex}) => flex};
     padding-right: 24px;
-
-`
-
-
+`;

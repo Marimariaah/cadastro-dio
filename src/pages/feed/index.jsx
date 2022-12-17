@@ -6,7 +6,7 @@ import { Header } from '../../components/Header';
 
 import { Container, Column, Title, TitleHighlight } from './styles';
 
-const Feed = () => {
+export const Feed = () => {
   return (
     <>
         <Header autenticado={true}/>
@@ -35,5 +35,3 @@ const Feed = () => {
     </>
   )
 }
-
-export { Feed }; 

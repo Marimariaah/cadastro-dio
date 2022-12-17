@@ -10,7 +10,7 @@ import { useForm } from "react-hook-form";
 
 import { Container, Title, Column, TitleLogin, SubtitleLogin, EsqueciText, CriarText, Row, Wrapper } from './styles';
 
-const Login = () => {
+export const Login = () => {
 
     const navigate = useNavigate()
 
@@ -63,5 +63,3 @@ const Login = () => {
         </Container>
     </>)
 }
-
-export { Login }
